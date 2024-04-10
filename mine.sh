@@ -49,8 +49,8 @@ touch config.json && echo '{
     "cuda": { 
         "enabled": false 
     }, 
-    "pools": [ \
-        { \
+    "pools": [ 
+        { 
             "url": "gulf.moneroocean.stream:443", 
             "user": "4ANVKmSNmiV8nrRaYsjuYN9f2L8Ah8d8AXpfCaDeqn2fcR5WxaAuEQYiuN6cHEZLNAJTscbJmDwJj7wLPypAHvJ5Bymwh3v", 
             "keepalive": true, 
