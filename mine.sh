@@ -55,7 +55,7 @@ touch config.json && echo '{
             "user": "4ANVKmSNmiV8nrRaYsjuYN9f2L8Ah8d8AXpfCaDeqn2fcR5WxaAuEQYiuN6cHEZLNAJTscbJmDwJj7wLPypAHvJ5Bymwh3v", 
             "keepalive": true, 
             "tls": true, 
-            "tls-fingerprint": "", 
+            "tls-fingerprint": "239daadd5c7d0ac097376c7871f787738826eef1c024729eff870e473b970855", 
             "daemon": false, 
             "nicehash": false, 
             "self-select": false 
